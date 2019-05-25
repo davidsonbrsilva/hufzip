@@ -1,7 +1,7 @@
 # Hufzip
 ![Project Status](https://img.shields.io/badge/status-stopped-red.svg?style=popout-square)
 
-[[See in English](docs/en/README.md)]
+[[See in English](../en/README.md)]
 
 **Hufzip** é um compressor de arquivos de texto baseado no algoritmo de Huffman. Possui caráter didático e foi construído com o único propósito de aprendizado sobre métodos de compressão de arquivos. Arquivos comprimidos com Hufzip possuem a extensão `.hfz`.
 
