@@ -2,7 +2,6 @@
 #define BYTE_SIZE 8
 
 #include <math.h>
-#include <bits/stdc++.h> 
 #include <fstream>
 #include <sstream>
 
