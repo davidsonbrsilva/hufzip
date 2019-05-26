@@ -36,7 +36,7 @@ All right! If everything went well, a `long.txt` file was created on `sample` fo
 
 No makefile was provided for the project. However, it can be built without major complications. The test was performed with MinGW for Windows 64 bits.
 
-## Uso
+## Usage
 
 ### Compressing file
 
