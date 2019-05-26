@@ -42,14 +42,14 @@ No makefile was provided for the project. However, it can be built without major
 
 ### Compressing file
 
-Use parameter `-c` parameter, followed by filepath, to compress it. For instance:
+Use `-c` parameter, followed by filepath, to compress it. For instance:
 ```
 $ hufzip -c "sample/long.txt"
 ```
 
 ### Decompressing file
 
-Use parameter `-d` parameter, followed by filepath, to decompress it. For instance:
+Use `-d` parameter, followed by filepath, to decompress it. For instance:
 ```
 $ hufzip -d "sample/long.hfz"
 ```

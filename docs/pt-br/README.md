@@ -25,7 +25,7 @@ Pronto! Se ocorreu tudo bem, um arquivo `long.hfz` foi criado na pasta `sample`.
 
 1. Acesse o [repl do projeto](https://repl.it/@davidsonbrsilva/hufzip);
 2. Clique em "Run";
-3. Com o editor de código em foco, pressione `Ctrl` + `Shift` + `P` no Windows e no Linux ou com `Cmd` + `Shift` + `P` no Mac. Uma caixa de texto deve abrir;
+3. Com o editor de código em foco, pressione `Ctrl` + `Shift` + `P` no Windows e no Linux ou `Cmd` + `Shift` + `P` no Mac. Uma caixa de texto deve abrir;
 4. Pesquise por "Open Shell" e clique na opção que aparecer. Um terminal deve abrir no canto inferior direito;
 5. Digite o seguinte comando no terminal:
 ```
