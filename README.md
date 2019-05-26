@@ -12,9 +12,10 @@ This is a quick guild to how to run Hufzip on Repl<span>.</span>it.
 ### Compressing a file
 
 1. Open the [project repl](https://repl.it/@davidsonbrsilva/hufzip);
-2. With the editor on focus, press `Ctrl` + `Shift` + `P` on Windows and Linux or `Cmd` + `Shift` + `P` on Mac. A text box should open;
-3. Search "Open Shell" and click the option that appears.
-4. Type the following command on terminal:
+2. Click "Run" button;
+3. With the editor on focus, press `Ctrl` + `Shift` + `P` on Windows and Linux or `Cmd` + `Shift` + `P` on Mac. A text box should open;
+4. Search "Open Shell" and click the option that appears.
+5. Type the following command on terminal:
 ```
 $ ./main -c "sample/long.txt"
 ```
@@ -24,9 +25,10 @@ Done! If everything went well, a `long.hfz` file was created on `sample` folder.
 
 
 1. Open the [project repl](https://repl.it/@davidsonbrsilva/hufzip);
-2. With the editor on focus, press `Ctrl` + `Shift` + `P` on Windows and Linux or `Cmd` + `Shift` + `P` on Mac. A text box should open;
-3. Search "Open Shell" and click the option that appears.
-4. Type the following command on terminal:
+2. Click "Run" button;
+3. With the editor on focus, press `Ctrl` + `Shift` + `P` on Windows and Linux or `Cmd` + `Shift` + `P` on Mac. A text box should open;
+4. Search "Open Shell" and click the option that appears.
+5. Type the following command on terminal:
 ```
 $ ./main -c "sample/long.txt"
 ```
