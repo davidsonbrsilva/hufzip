@@ -7,7 +7,7 @@
 
 ## Quick Guide
 
-This is a quick guild to how to run Hufzip on Repl<span>.</span>it.
+This is a quick guide to how to run Hufzip on Repl<span>.</span>it.
 
 ### Compressing a file
 
@@ -57,10 +57,6 @@ $ hufzip -d "sample/long.hfz"
 ## Support
 
 Send email to <davidsonbruno@outlook.com>.
-
-## Contributing
-
-Please, check the [Contributing Guide](CONTRIBUTING.md).
 
 ## License
 
