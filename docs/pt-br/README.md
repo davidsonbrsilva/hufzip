@@ -57,10 +57,6 @@ $ hufzip -d "sample/long.hfz"
 
 Envie e-mail para <davidsonbruno@outlook.com>.
 
-## Contribuição
-
-Por favor, verifique o [Guia de Contribuição](CONTRIBUTING.md).
-
 ## Licença
 
 [MIT](LICENSE.md) Copyright (c) 2019, Davidson Bruno.
