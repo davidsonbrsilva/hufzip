@@ -1,13 +1,14 @@
 # Hufzip
-![Project Status](https://img.shields.io/badge/status-stopped-red.svg?style=popout-square)
 
-[[Ver em Português](docs/pt-br/README.md)]
+![License](https://img.shields.io/github/license/davidsonbrsilva/hufzip.svg) ![Code Size](https://img.shields.io/github/languages/code-size/davidsonbrsilva/hufzip) ![Project Status](https://img.shields.io/badge/status-stopped-red.svg)
+
+[[Ver em Português](README.pt-br.md)]
 
 **Hufzip** is a text file compressor based on Huffman algorithm. It has a didatic character and was built for the sole purpose of learning about file compressing methods. Files compressed with Huffzip have `.hfz` extension.
 
 ## Quick Guide
 
-This is a quick guide to how to run Hufzip on Repl<span>.</span>it.
+This is a quick guide to how to run Hufzip on Replit.
 
 ### Compressing a file
 
